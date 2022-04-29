@@ -1,4 +1,4 @@
-# AudioClassificationApplications
+# GANForCAPUCHIN
 
 In this model, I have tried to train my model to create the sounds of Capuchin Birds.
 

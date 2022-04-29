@@ -1,4 +1,4 @@
-# AudioClassificationApplications
+# GANForClassicalMusic
 
 In this model, I have tried to train my model to create a piece of classical music.
 

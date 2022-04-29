@@ -1,4 +1,4 @@
-# AudioClassificationApplications
+# ModelForCAPUCHIN
 
 In this model, I have tried to train my model to detect the sounds of Capuchin Birds.
 
